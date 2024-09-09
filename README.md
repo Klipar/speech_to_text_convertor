@@ -1,4 +1,4 @@
-===> Compiled Version
+# Compiled Version
 Jast enter name of bin file:
     $ ./Sound_to_text_Converter
 You also can use flag of your audio file name:
