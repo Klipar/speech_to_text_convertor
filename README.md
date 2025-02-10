@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled Version
 Jast enter name of bin file:
     $ ./Sound_to_text_Converter
@@ -23,3 +24,6 @@ You also can use flag of your audio file name:
 6. After using program you can jast close terminal or enter 
     $ deactivate  
    And continu to use this terminal sesion :).
+=======
+# speech_to_text_convertor
+>>>>>>> main
