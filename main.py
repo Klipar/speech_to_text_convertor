@@ -5,10 +5,6 @@ import os
 import textwrap
 from Easy.massage import *
 
-
-
-
-
 def SetLanguage ():
 
     print (colors.VIOLET + """
