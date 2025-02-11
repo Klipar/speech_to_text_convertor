@@ -3,6 +3,12 @@
 
 This project allows you to convert audio files to text using the `speech_recognition` library and the Google Web Speech API. There is also an option to format the text to improve readability.
 
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+![Python 3.6](https://img.shields.io/badge/Python-3.6-blue?logo=python)
+
 ## Demo
 
 ![Demo of Easy library](media/demo.gif)
