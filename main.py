@@ -145,7 +145,7 @@ def main(language_model):
             inform("Text improvement omitted.")
         
         with open(output_file_path, 'w', encoding='utf-8') as file:
-            file.write(text)
+            file.write(text + "\n")
             
     except sr.UnknownValueError:
         failed("Google Web Speech API can't recognised your file     :(")
