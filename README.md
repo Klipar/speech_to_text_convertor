@@ -10,7 +10,8 @@ This project allows you to convert audio files to text using the `speech_recogni
 
 ## Demo
 
-![Demo of Easy library](media/demo.gif)
+![Demo of project](media/demo1.GIF)
+![Demo of project](media/demo2.GIF)
 ## Functionality
 
 - Supports multiple recognition languages (English, Ukrainian, Slovak, etc.)
