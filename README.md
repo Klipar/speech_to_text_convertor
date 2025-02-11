@@ -21,11 +21,11 @@ git clone https://github.com/Klipar/speech_to_text_convertor.git
 cd speech_to_text_convertor
 ```
 3. **Optional** create and log in to the virtual environment:
-If you use `Bash'
+If you use `Bash`
 ``` Bash
 python -m venv .venv && source .venv/bin/activate
 ```
-If you use `Fish'
+If you use `Fish`
 ``` Bash
 python -m venv .venv && source .venv/bin/activate.fish
 ```
@@ -47,7 +47,7 @@ python main.py Path/to/your/audio.file
 2. Select the recognition language.
 3. Specify the path to the audio file (if you haven't already done so when you start the program).
 4. You can format it for easier viewing or skip this step.
-5. Get the text as a `.txt' file.
+5. Get the text as a `.txt` file.
 ## Supported formats
 - `.mp3`
 - `.wav`
